@@ -1,0 +1,1 @@
+import{_ as e}from"./Content.114c563b.js";import{o as t,c as a,a as o}from"./index.27e5c180.js";const s={class:"main"},i={__name:"Serials",setup(c){return(r,_)=>(t(),a("div",s,[o(e,{content:"/tv/"})]))}};export{i as default};

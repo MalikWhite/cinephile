@@ -1,0 +1,1 @@
+import{_ as e}from"./InfoId.bd34f91d.js";import{o as a,c as t,a as s}from"./index.27e5c180.js";const o={class:"main"},i={__name:"SerialsId",setup(c){return(r,_)=>(a(),t("div",o,[s(e,{type:"/tv/"})]))}};export{i as default};

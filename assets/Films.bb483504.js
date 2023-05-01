@@ -1,0 +1,1 @@
+import{_ as e}from"./Content.114c563b.js";import{o,c as t,a}from"./index.27e5c180.js";const s={class:"main"},i={__name:"Films",setup(c){return(_,n)=>(o(),t("div",s,[a(e,{content:"/movie/"})]))}};export{i as default};
